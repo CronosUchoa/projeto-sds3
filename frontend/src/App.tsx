@@ -1,9 +1,18 @@
+import DataTable from "components/DataTable";
+import Footer from "components/Footer";
+import NavBar from "components/NavBar";
+import { Fragment } from "react";
 
 function App() {
   return (
-    <div>
-      <h1 className="text-primary">olá my mundão</h1>
-    </div>
+    <>
+      <NavBar/>
+      <div className="container">
+       <DataTable/>
+      </div>
+      <Footer></Footer>
+    </>
+
   );
 }
 
