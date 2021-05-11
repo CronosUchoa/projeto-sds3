@@ -1,4 +1,4 @@
-import ImgDsDark from 'assets/img/webdev.svg'
+import ImgDsDark from 'assets/img/CronosUchoa.gif'
 
 
 function NavBar() {
