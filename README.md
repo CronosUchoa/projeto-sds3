@@ -1,5 +1,7 @@
 # Sobre o projeto
 
+cronos-sds3.netlify.app
+
 DS Vendas é uma aplicação construída durante a 3ª edição da Semana DevSuperior, evento organizado pela DevSuperior.
 
 A aplicação consiste em uma analise o desempenho das vendas.
